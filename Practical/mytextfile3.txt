@@ -1,0 +1,4 @@
+this is a line
+this is line without forbidden word
+this is also a line
+this is line2 without the forbidden word
